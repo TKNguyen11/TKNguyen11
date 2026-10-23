@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hello my name is Tuan Nguyen and welcome to my GitHub Page👋
+
+Im an aspiring student in the works of completing my bachelor in computer science at Goethe-University Frankfurt!
+On this page you can find projects I have created during my academic career of free time.
+
+### **Programming Languages & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Developer Tools & Libraries**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 <!--
 **TKNguyen11/TKNguyen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
