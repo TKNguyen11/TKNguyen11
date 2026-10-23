@@ -1,7 +1,8 @@
 ## Hello my name is Tuan Nguyen and welcome to my GitHub Page👋
 
-Im an aspiring student in the works of completing my bachelor in computer science at Goethe-University Frankfurt!
-On this page you can find projects I have created during my academic career of free time.
+I'm an aspiring student currently pursuing my Bachelor's degree in Computer Science at Goethe-University Frankfurt!  
+
+On this page you can find projects I have created during my academic career or free time.
 
 ### **Programming Languages & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
